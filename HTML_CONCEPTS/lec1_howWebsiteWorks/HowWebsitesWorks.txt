@@ -1,0 +1,10 @@
+client->browser->server
+kind of 3 level architecture
+
+client server ko request bhejta hai browser ki through and uska response browser client ko send karta hai 
+
+Frontend => HTML + CSS+ JS !
+
+HTML => SKELETON
+CSS => skin
+JS => brain + nervous system
